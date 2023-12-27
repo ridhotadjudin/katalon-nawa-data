@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "2E1DE1A28BA3766773E847E6BF789921",
+  "keywordClasses": [
+    {
+      "name": "com.azure.cloudapp.southeastasia.ndsrndserver.HandleTestData",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

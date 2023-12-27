@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "9BFCE9935599F13385DB28CA619EB226",
+  "keywordClasses": [
+    {
+      "name": "com.azure.cloudapp.southeastasia.ndsrndserver.HandleElement",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}
